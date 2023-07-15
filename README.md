@@ -1,2 +1,2 @@
 # GitDev
-Project Git Development 
+Project Git Learn
