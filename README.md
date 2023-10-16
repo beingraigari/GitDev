@@ -1,2 +1,2 @@
-# GitDev
-Project Git Learn
+# Learning Git
+Trying to learn git basics
